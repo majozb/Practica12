@@ -1,6 +1,6 @@
 dist/
 node_modules/
 coverage/
-mongodb-linux-x86_64-ubuntu2204-7.0.8
+mongodb-linux-x86_64-ubuntu2204-7.0.8*
 mongodb-linux-x86_64-ubuntu2204-7.0.8.tgz
-mongodb-mongosh_2.2.3_amd64.deb
+mongodb-mongosh_2.2.3_amd64.deb*
